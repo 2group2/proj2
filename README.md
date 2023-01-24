@@ -28,7 +28,7 @@ collaboratively-written fiction).
 - Issues?
 - Actions?
 
-Gaded on
+## Graded On...
 
 - [ ] how much you individually contributed to the project (as evidenced by the Github records)
 - [ ] how broadly your team used the version control features of git and the collaboration features available in Github and Slack
