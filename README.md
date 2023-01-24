@@ -2,6 +2,14 @@
 
 The goal of this project is to practice the workflow of social coding — learning to collaborate within a group on a common set of data.
 
+Details of our page
+- **Topic**: [TBD]
+
+Pages
+- **index.html**: Home
+
+
+
 - [ ] organization site or Project site model
 
 - [ ] Use GitHub Pages 
